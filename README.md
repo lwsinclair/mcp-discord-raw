@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hanweg-mcp-discord-raw-badge.png)](https://mseep.ai/app/hanweg-mcp-discord-raw)
+
 # Discord Raw API MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@hanweg/mcp-discord-raw)](https://smithery.ai/server/@hanweg/mcp-discord-raw)
